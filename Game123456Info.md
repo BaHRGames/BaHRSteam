@@ -1,1 +1,1 @@
-eyJOYW1lIjoiTmVyZCBBdHRhY2siLCJEZXNjcmlwdGlvbiI6ItCd0L3Rj9C90Y/QvdC90Y/QvdGP0L3Rj9C90Y/QvdGP0L3Rj9C90Y/QvdC90Y/QvdC90Y/QvdGP0L0iLCJSZWxlYXNlRGF0ZSI6IjAzLjAzLjIwMjUiLCJBdXRob3IiOiJCYUhSIFN0dWRpbyIsIlBsYXRmb3JtcyI6WyJXaW5kb3dzIl0sIkNvbnRyb2xzIjpbItCa0LvQsNCy0LjQsNGC0YPRgNCwIl19
+{"Name":"Nerd Attack","Description":"Нняняннянянянянянянянняннянян","ReleaseDate":"03.03.2025","Author":"BaHR Studio","Platforms":["Windows"],"Controls":["Клавиатура"],"DownloadLink":"https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/CJGUePhfcqlE6w"}
